@@ -1,0 +1,6 @@
+robot1: calcul de distance et moyennne
+robot2: suivre les lignes et faire des calculs selon le temps
+
+IR transmission & reception, capteur de distance avec moteur 1, rs232, ascii, capteur de lignes avec moteur 2,
+machines a etat 1 et 2 pour chaque robot
+
